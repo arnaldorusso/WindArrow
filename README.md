@@ -3,6 +3,7 @@ Plot Wind Arrow 2D plot - length based on wind intensity and angle based in wind
 
 ## Usage
 
+    :::python
     import numpy as np
     import matplotlib.pyplot as plt
     from wind import windplot
